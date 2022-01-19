@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="password">Password</string>
+    <string name="test_text">...</string>
+    <string name="clear_fields">Clear Fields</string>
+    <string name="result_fragment">Result Fragment</string>
+    <string name="input_fragment">Input Fragment</string>
+    <string name="show_result">Show Result</string>
+    <string name="all_saved_passwords">saved passwords</string>
+    <string name="sb">Save password</string>
+    <string name="rb1">Show password</string>
+    <string name="rb2">Hide password</string>
+</resources>
